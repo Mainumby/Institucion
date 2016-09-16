@@ -10,6 +10,7 @@ namespace Institución
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
